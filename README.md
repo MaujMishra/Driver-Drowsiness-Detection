@@ -29,6 +29,8 @@ The training data consisted of 1707 well balanced images of both classes and the
 |Training Set|99.7%|
 | - | - |
 |Validation Set|95.9%|
+
+
 **Limitations of the Model**
 
 Despite giving good performance on train set and validation set, the model still has some limitations which are -
